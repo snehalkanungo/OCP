@@ -1,0 +1,4 @@
+Answer-9: To remove an element: We can use Predicate class and removeIf() method.
+		  RemoveIf is an in-built method in linkedlist.
+	
+Answer-10: C
